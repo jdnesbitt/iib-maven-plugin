@@ -273,7 +273,7 @@
 		<repository>
 			<id>central</id>
 			<name>Central Repository</name>
-			<url>RepoPath/url>
+			<url>RepoPath</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
