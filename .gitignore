@@ -1,0 +1,12 @@
+*.log
+*.class
+*.bar
+*.jar
+
+# Directories
+/bin
+/classes
+/target
+
+
+
